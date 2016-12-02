@@ -1,6 +1,6 @@
 /* A Huffman coding program
  * @file: huffman.cpp
- * @author: Zhang Xiao
+ * @author: xiaocenxiaocen
  * @date: 2016.11.18
  */
 #include "huffman.h"
